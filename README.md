@@ -1,4 +1,4 @@
-# Compositing
+# Raytrace2
 
 This is the first continuation of the ray tracer.
 To incorporate lighting, we’ll need to define a few more variables in the config file (see config1.txt for specifics).
